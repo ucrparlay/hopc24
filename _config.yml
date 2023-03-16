@@ -21,7 +21,7 @@
 title: HOPS'23
 description: Website generated from jekyll minima theme
 baseurl: "/hops23/" # the subpath of your site, e.g. /blog
-url: "https://syhlalala.github.io"
+url: "https://ucrparlay.github.io"
 
 # Build settings
 theme: minima
