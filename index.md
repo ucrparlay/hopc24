@@ -12,7 +12,7 @@ to be held in conjunction with [ACM Symposium on Parallelism in Algorithms and A
 ## **About**
 
 With recent advances in hardware, parallelism is becoming increasingly ubiquitous, and work on parallel systems now regularly appears at dozens of conferences and communities.
-Motivated by the now ubiquitous nature of parallelism in hardware and modern systems, we believe it is an opportune time to host a workshop focused on the {\em Highlights of Parallel Systems (HOPS)} at SPAA.
+Motivated by the now ubiquitous nature of parallelism in hardware and modern systems, we believe it is an opportune time to host a workshop focused on the **Highlights of Parallel Systems (HOPS)** at SPAA.
 
 In this workshop which will be co-located with SPAA, participants will present talks on recent papers on parallel systems (both theory and practice) that did not appear at SPAA to the SPAA community. 
 This will be an opportunity for the SPAA community to interact with researchers who (perhaps) do not usually submit their work to SPAA, and vice versa. 
