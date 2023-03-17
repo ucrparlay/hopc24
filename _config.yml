@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HOPS'23
+title: HOPC'23
 description: Highlight of Parallel Systems, 2023
-baseurl: "/hops23/" # the subpath of your site, e.g. /blog
+baseurl: "/hopc23/" # the subpath of your site, e.g. /blog
 url: "https://ucrparlay.github.io"
 
 # Build settings
