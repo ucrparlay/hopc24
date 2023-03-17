@@ -9,6 +9,8 @@ Orlando, Florida. June 16-19, 2023
 
 to be held in conjunction with [ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'23)](https://spaa.acm.org/)
 
+also part of [ACM FCRC](https://fcrc.acm.org/)
+
 ## **About**
 
 With recent advances in hardware, parallelism is becoming increasingly ubiquitous, and work on parallel systems now regularly appears at dozens of conferences and communities.
