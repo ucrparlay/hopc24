@@ -26,7 +26,7 @@ We recommend the authors to use the [ACM template](https://www.acm.org/publicati
 
 An accepted paper will be invited to a **poster presentation** at the reception of the SPAA conference. Selected papers will give oral presentations during SPAA. 
 
-The submission will be on Easychair, and the link will be available soon. 
+The submission will be on Easychair: https://easychair.org/my/conference?conf=hopc2023. 
 
 <!--The extended abstracts will be included in ACM proceedings (Yihan: I commented this out since we haven't contacted ACM yet)
 -->
