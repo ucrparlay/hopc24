@@ -13,13 +13,13 @@ also part of [ACM FCRC](https://fcrc.acm.org/)
 
 ## **About**
 
-With recent advances in hardware, parallelism is becoming increasingly ubiquitous, and work on parallel systems now regularly appears at dozens of conferences and communities.
-Motivated by the now ubiquitous nature of parallelism in hardware and modern systems, we believe it is an opportune time to host a workshop focused on the **Highlights of Parallel Computing (HOPC)** at SPAA.
+With recent advances in hardware, parallelism is becoming increasingly ubiquitous, and work on parallelism now regularly appears at dozens of conferences and communities.
+Motivated by the now ubiquitous nature of parallelism, we believe it is an opportune time to host a workshop focused on the **Highlights of Parallel Computing (HOPC)** at SPAA.
 
-In this workshop which will be co-located with SPAA, participants will present talks on recent papers on parallel systems (both theory and practice) that did not appear at SPAA to the SPAA community. 
+In this workshop which will be co-located with SPAA, participants will present talks on recent papers on parallel computing (both theory and practice) that did not appear at SPAA to the SPAA community. 
 This will be an opportunity for the SPAA community to interact with researchers who (perhaps) do not usually submit their work to SPAA, and vice versa. 
 
-Although SPAA is conference focusing on theory, historically it  has also been a conference in placing a strong emphasis on research which combines theory and practice. 
+Although SPAA is conference focusing on theory, historically it has also been placing a strong emphasis on research which combines theory and practice. 
 This workshop aims to proivde a unique platform for both theoretians and practioners to discuss how to implement practically efficient parallel algorithms based on theoretical results, as well as to understand what theory is needed in practical large-scale applications. 
 
 ## **Important Dates**{:id="date"}

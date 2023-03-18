@@ -6,9 +6,9 @@ permalink: /cfp/
 
 ### **Scope**
 
-The scope of HOPS consists of any interesting work on parallel systems that was accepted to a publication venue up to 3 years before the date of this conference (i.e., June 2020 onward). We especially welcome papers published during the pandemic years. 
+The scope of HOPC consists of any interesting work on parallel computing that was accepted to a publication venue up to 3 years before the date of this conference (i.e., June 2020 onward). We especially welcome papers published during the pandemic years. 
 
-The topics  any research related to parallel system design, including (but not limited to):
+The topics include any research related to parallel computing, including (but not limited to):
 - Theoretical work motivated by system design
 - Efficient implementations of parallel, concurrent and distributed algorithms
 - Large-scale applications and data management
