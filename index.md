@@ -22,6 +22,8 @@ This will be an opportunity for the SPAA community to interact with researchers 
 Although SPAA is conference focusing on theory, historically it has also been placing a strong emphasis on research which combines theory and practice. 
 This workshop aims to proivde a unique platform for both theoretians and practioners to discuss how to implement practically efficient parallel algorithms based on theoretical results, as well as to understand what theory is needed in practical large-scale applications. 
 
+The scope of HOPC consists of any interesting work on parallel computing that was accepted to a publication venue up to 3 years before the date of this conference (i.e., June 2020 onward). We especially welcome papers published during the pandemic years. For more information, please see the [Call For Papers](/hopc23/cfp/) page. 
+
 ## **Important Dates**{:id="date"}
 
 | Submission Deadline | April 18 |
