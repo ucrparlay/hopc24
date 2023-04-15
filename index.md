@@ -44,4 +44,11 @@ If an author has any questions, please contact Laxman Dhulipala (laxman AT umd D
 
 ### **Program Committee**
 
-TBD
+- Michael Bender, Stony Brook University
+- Laxman Dhulipala, University of Maryland, College Park
+- Phil Gibbons, Carnegie Mellon University
+- Yan Gu, UC Riverside
+- Quanquan Liu, Northwestern University
+- Prashant Pandey, University of Utah
+- Yihan Sun, UC Riverside
+- Helen Xu, Lawrence Berkeley National Laboratory
