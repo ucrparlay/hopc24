@@ -26,7 +26,7 @@ The scope of HOPC consists of any interesting work on parallel computing that wa
 
 ## **Important Dates**{:id="date"}
 
-| Submission Deadline | April 18 |
+| Submission Deadline | ~~April 18~~ April 23 |
 | Author Notification | May 9 |
 | Camera-ready | May 20 |
 | Poster Presentation | June 16 (SPAA Reception) |
