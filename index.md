@@ -30,7 +30,7 @@ The scope of HOPC consists of any interesting work on parallel computing that wa
 | Author Notification | ~~May 9~~ May 18th |
 | Camera-ready | ~~May 20~~ May 25th |
 | Poster Presentation | June 16 (SPAA Reception) |
-| Oral Presentation | June 15 |
+| Oral Presentation | June 16 |
 
 ## **Organization**{:id="organization"}
 
