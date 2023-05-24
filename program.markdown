@@ -7,7 +7,7 @@ permalink: /program/
 
 
 
-  **2:00-2:10** &nbsp;&nbsp;&nbsp; Opening Remarks</li>
+  **2:00-2:10** &nbsp;&nbsp;&nbsp; Opening Remarks
 
 **Session 1: Graph Algorithms**
 
