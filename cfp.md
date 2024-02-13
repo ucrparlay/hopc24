@@ -9,7 +9,7 @@ permalink: /cfp/
 The scope of HOPC consists of any interesting work on parallel computing that was accepted to a publication venue up to 3 years before the date of this conference (i.e., June 2021 onward). We especially welcome papers published during the pandemic years. 
 
 The topics include any research related to parallel computing, including (but not limited to):
-- Theoretical work motivated by system design
+- Theory of parallel computing
 - Efficient implementations of parallel, concurrent and distributed algorithms
 - Large-scale applications and data management
 - Experimental study and benchmark of parallel algorithms
