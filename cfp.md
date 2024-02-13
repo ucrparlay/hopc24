@@ -20,7 +20,7 @@ The topics include any research related to parallel computing, including (but no
 
 
 ### **Submission Guideline**
-<!--
+
 Papers must be submitted in the form of a 2-page (maximum) abstract, including bibliography. The review process is single-blind. The authors need to specify their names, affiliations, as well as the original conference version of this paper on the first page. 
 
 We recommend the authors to use the [ACM template](https://www.acm.org/publications/proceedings-template) with "sigconf" format (i.e., the same as the SPAA conference papers). This is a single-spaced double-column format for US-letter paper, with a 9-point font size. Submissions must be in PDF format.
@@ -29,11 +29,10 @@ An accepted paper will be invited to a **poster presentation** at the reception 
 
 ### **Submission Site**
 
-Please submit your paper to Easychair: [https://easychair.org/my/conference?conf=hopc2023](https://easychair.org/my/conference?conf=hopc2023). 
+Please submit your paper to Easychair: [https://easychair.org/my/conference?conf=hopc24](https://easychair.org/my/conference?conf=hopc24). 
 
--->
 
-TBD
+
 
 <!--The extended abstracts will be included in ACM proceedings (Yihan: I commented this out since we haven't contacted ACM yet)
 -->
